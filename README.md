@@ -29,7 +29,7 @@ This is a job listings application built with React, providing users with a plat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/job-listings.git
+   git clone git@github.com:Rishwanth-M/Job-Board-Platform-.git
    ```
 
 2. Install dependencies:
